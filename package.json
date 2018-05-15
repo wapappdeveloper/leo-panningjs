@@ -1,0 +1,22 @@
+{
+  "name": "leo-panningjs",
+  "version": "1.0.0",
+  "description": "panning library",
+  "main": "panning.ja",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wapappdeveloper/leo-panningjs.git"
+  },
+  "keywords": [
+    "leo-panningjs"
+  ],
+  "author": "lional",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wapappdeveloper/leo-panningjs/issues"
+  },
+  "homepage": "https://github.com/wapappdeveloper/leo-panningjs#readme"
+}
